@@ -48,6 +48,7 @@ header {
   width: 100%;
   background: #e7e9eb;
   height: 2px;
+  align-content: center;
 }
 
 .card-body {
