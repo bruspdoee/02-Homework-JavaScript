@@ -1,4 +1,3 @@
-  
 //Get the generation button id and create a variable for the password
 var generateBtn = document.querySelector("#generate");
 var generatedPassword = "";
